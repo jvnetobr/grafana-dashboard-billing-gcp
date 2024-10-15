@@ -5,7 +5,7 @@
       "label": "BigQuery",
       "description": "",
       "type": "datasource",
-      "pluginId": "doitintl-bigquery-datasource",
+      "pluginId": "grafana-bigquery-datasource",
       "pluginName": "Google BigQuery"
     },
     {
